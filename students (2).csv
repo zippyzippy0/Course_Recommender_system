@@ -1,0 +1,201 @@
+StudentID,Name,Subjects,Grade,Interests,Preferred_Field,Career_Goal,Learning_Style
+STU0001,Student_1,"Math, Physics, Chemistry",37.54,Health,Health,Nurse,Visual
+STU0002,Student_2,"Geography, Agriculture, Biology",29.6,Environmental Science,Environmental Science,Conservationist,Auditory
+STU0003,Student_3,"Math, Physics, Chemistry",28.81,IT,IT,Software Developer,Visual
+STU0004,Student_4,"Math, Physics, Chemistry",41.77,Health,Health,Nurse,Visual
+STU0005,Student_5,"Math, Physics, Computer",29.71,Engineering,Engineering,Engineer,Self-paced
+STU0006,Student_6,"Geography, Agriculture, Biology",28.86,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0007,Student_7,"Math, Business, Geography",26.98,Business,Business,Entrepreneur,Self-paced
+STU0008,Student_8,"Math, Business, Geography",41.64,Business,Business,Entrepreneur,Auditory
+STU0009,Student_9,"Math, Physics, Computer",27.75,Business,Business,Entrepreneur,Auditory
+STU0010,Student_10,"Biology, Chemistry, Home Science",31.22,Environmental Science,Environmental Science,Conservationist,Visual
+STU0011,Student_11,"Math, Computer, English",30.61,Engineering,Engineering,Engineer,Self-paced
+STU0012,Student_12,"Geography, Agriculture, Biology",32.16,Health,Health,Nurse,Visual
+STU0013,Student_13,"Math, Biology, Agriculture",27.63,Health,Health,Nurse,Hands-On
+STU0014,Student_14,"Math, Physics, Computer",30.59,IT,IT,Software Developer,Self-paced
+STU0015,Student_15,"Biology, Chemistry, Home Science",30.88,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0016,Student_16,"Math, Business, Geography",29.4,Environmental Science,Environmental Science,Conservationist,Visual
+STU0017,Student_17,"Geography, Agriculture, Biology",27.66,Environmental Science,Environmental Science,Conservationist,Hands-On
+STU0018,Student_18,"Math, Business, Geography",30.9,IT,IT,Software Developer,Self-paced
+STU0019,Student_19,"Math, Physics, Chemistry",39.05,IT,IT,Software Developer,Self-paced
+STU0020,Student_20,"English, Kiswahili, Business",35.63,Business,Business,Entrepreneur,Visual
+STU0021,Student_21,"Math, Biology, Agriculture",32.16,Engineering,Engineering,Engineer,Auditory
+STU0022,Student_22,"English, Kiswahili, Business",40.2,Business,Business,Entrepreneur,Self-paced
+STU0023,Student_23,"English, History, CRE",30.46,Social Sciences,Social Sciences,Sociologist,Hands-On
+STU0024,Student_24,"Math, Computer, English",26.55,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0025,Student_25,"Biology, Chemistry, Home Science",43.02,Health,Health,Nurse,Hands-On
+STU0026,Student_26,"English, Kiswahili, Business",26.43,Business,Business,Entrepreneur,Visual
+STU0027,Student_27,"English, Kiswahili, Business",43.29,Business,Business,Entrepreneur,Hands-On
+STU0028,Student_28,"Math, Biology, Agriculture",31.82,Business,Business,Entrepreneur,Visual
+STU0029,Student_29,"Math, Computer, English",38.35,IT,IT,Software Developer,Self-paced
+STU0030,Student_30,"Math, Physics, Computer",29.97,IT,IT,Software Developer,Self-paced
+STU0031,Student_31,"Math, Biology, Agriculture",41.52,Environmental Science,Environmental Science,Conservationist,Visual
+STU0032,Student_32,"Geography, Agriculture, Biology",33.15,Health,Health,Nurse,Hands-On
+STU0033,Student_33,"Math, Biology, Agriculture",34.76,Environmental Science,Environmental Science,Conservationist,Hands-On
+STU0034,Student_34,"Math, Computer, English",37.02,Engineering,Engineering,Engineer,Auditory
+STU0035,Student_35,"Math, Business, Geography",31.86,Environmental Science,Environmental Science,Conservationist,Hands-On
+STU0036,Student_36,"Math, Business, Geography",39.73,Engineering,Engineering,Engineer,Visual
+STU0037,Student_37,"Math, Business, Geography",42.6,Business,Business,Entrepreneur,Visual
+STU0038,Student_38,"Math, Biology, Agriculture",33.71,IT,IT,Software Developer,Visual
+STU0039,Student_39,"Math, Physics, Chemistry",33.0,Business,Business,Entrepreneur,Auditory
+STU0040,Student_40,"English, Kiswahili, Business",36.71,Business,Business,Entrepreneur,Auditory
+STU0041,Student_41,"Geography, Agriculture, Biology",40.9,Health,Health,Nurse,Visual
+STU0042,Student_42,"English, History, CRE",42.2,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0043,Student_43,"Geography, Agriculture, Biology",38.39,Environmental Science,Environmental Science,Conservationist,Visual
+STU0044,Student_44,"Math, Physics, Chemistry",40.99,Engineering,Engineering,Engineer,Visual
+STU0045,Student_45,"Biology, Chemistry, Home Science",34.36,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0046,Student_46,"Geography, Agriculture, Biology",37.22,Health,Health,Nurse,Self-paced
+STU0047,Student_47,"English, History, CRE",44.62,Social Sciences,Social Sciences,Sociologist,Hands-On
+STU0048,Student_48,"English, Kiswahili, Business",40.53,Business,Business,Entrepreneur,Visual
+STU0049,Student_49,"Math, Physics, Chemistry",39.01,IT,IT,Software Developer,Visual
+STU0050,Student_50,"Biology, Chemistry, Home Science",26.25,Health,Health,Nurse,Self-paced
+STU0051,Student_51,"Biology, Chemistry, Home Science",41.04,Health,Health,Nurse,Auditory
+STU0052,Student_52,"English, Kiswahili, Business",42.07,Business,Business,Entrepreneur,Hands-On
+STU0053,Student_53,"English, Kiswahili, Business",39.97,Business,Business,Entrepreneur,Auditory
+STU0054,Student_54,"English, History, CRE",44.86,Social Sciences,Social Sciences,Sociologist,Hands-On
+STU0055,Student_55,"English, Kiswahili, Business",34.77,Social Sciences,Social Sciences,Sociologist,Hands-On
+STU0056,Student_56,"English, Kiswahili, Business",37.36,Business,Business,Entrepreneur,Auditory
+STU0057,Student_57,"Math, Physics, Chemistry",34.89,Engineering,Engineering,Engineer,Hands-On
+STU0058,Student_58,"Math, Business, Geography",33.16,Business,Business,Entrepreneur,Self-paced
+STU0059,Student_59,"Math, Physics, Chemistry",42.29,Business,Business,Entrepreneur,Self-paced
+STU0060,Student_60,"Math, Physics, Chemistry",36.27,Engineering,Engineering,Engineer,Self-paced
+STU0061,Student_61,"Biology, Chemistry, Home Science",34.82,Health,Health,Nurse,Visual
+STU0062,Student_62,"Math, Physics, Computer",40.54,Engineering,Engineering,Engineer,Hands-On
+STU0063,Student_63,"Math, Physics, Computer",34.3,Business,Business,Entrepreneur,Visual
+STU0064,Student_64,"English, History, CRE",41.39,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0065,Student_65,"Geography, Agriculture, Biology",41.88,Environmental Science,Environmental Science,Conservationist,Hands-On
+STU0066,Student_66,"Math, Physics, Computer",34.69,Engineering,Engineering,Engineer,Auditory
+STU0067,Student_67,"English, History, CRE",32.15,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0068,Student_68,"Geography, Agriculture, Biology",31.47,Environmental Science,Environmental Science,Conservationist,Auditory
+STU0069,Student_69,"English, History, CRE",31.81,Social Sciences,Social Sciences,Sociologist,Visual
+STU0070,Student_70,"Math, Physics, Computer",30.79,Business,Business,Entrepreneur,Self-paced
+STU0071,Student_71,"Math, Business, Geography",39.72,IT,IT,Software Developer,Hands-On
+STU0072,Student_72,"Math, Physics, Chemistry",44.52,Business,Business,Entrepreneur,Self-paced
+STU0073,Student_73,"Math, Computer, English",30.48,Social Sciences,Social Sciences,Sociologist,Visual
+STU0074,Student_74,"English, Kiswahili, Business",42.17,Social Sciences,Social Sciences,Sociologist,Hands-On
+STU0075,Student_75,"Math, Physics, Computer",27.95,Engineering,Engineering,Engineer,Self-paced
+STU0076,Student_76,"Math, Computer, English",40.06,Business,Business,Entrepreneur,Visual
+STU0077,Student_77,"Math, Biology, Agriculture",30.0,Engineering,Engineering,Engineer,Hands-On
+STU0078,Student_78,"Math, Physics, Chemistry",34.94,Health,Health,Nurse,Visual
+STU0079,Student_79,"Geography, Agriculture, Biology",36.76,Health,Health,Nurse,Hands-On
+STU0080,Student_80,"Math, Business, Geography",28.91,Environmental Science,Environmental Science,Conservationist,Visual
+STU0081,Student_81,"Math, Physics, Chemistry",33.42,IT,IT,Software Developer,Self-paced
+STU0082,Student_82,"Math, Physics, Computer",40.99,Engineering,Engineering,Engineer,Self-paced
+STU0083,Student_83,"Biology, Chemistry, Home Science",33.29,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0084,Student_84,"Math, Biology, Agriculture",38.15,IT,IT,Software Developer,Self-paced
+STU0085,Student_85,"Math, Computer, English",40.41,IT,IT,Software Developer,Auditory
+STU0086,Student_86,"English, History, CRE",27.04,Social Sciences,Social Sciences,Sociologist,Visual
+STU0087,Student_87,"Math, Biology, Agriculture",35.26,Engineering,Engineering,Engineer,Visual
+STU0088,Student_88,"English, Kiswahili, Business",42.54,Business,Business,Entrepreneur,Auditory
+STU0089,Student_89,"Math, Computer, English",36.49,Business,Business,Entrepreneur,Self-paced
+STU0090,Student_90,"English, Kiswahili, Business",28.27,Business,Business,Entrepreneur,Self-paced
+STU0091,Student_91,"Biology, Chemistry, Home Science",42.14,Health,Health,Nurse,Visual
+STU0092,Student_92,"Biology, Chemistry, Home Science",28.42,Health,Health,Nurse,Visual
+STU0093,Student_93,"Math, Business, Geography",39.52,IT,IT,Software Developer,Visual
+STU0094,Student_94,"Math, Computer, English",35.8,IT,IT,Software Developer,Auditory
+STU0095,Student_95,"English, Kiswahili, Business",29.88,Business,Business,Entrepreneur,Hands-On
+STU0096,Student_96,"Math, Physics, Chemistry",26.6,IT,IT,Software Developer,Self-paced
+STU0097,Student_97,"Math, Business, Geography",29.73,Business,Business,Entrepreneur,Self-paced
+STU0098,Student_98,"Math, Physics, Chemistry",36.7,Engineering,Engineering,Engineer,Self-paced
+STU0099,Student_99,"Math, Biology, Agriculture",37.8,Business,Business,Entrepreneur,Visual
+STU0100,Student_100,"Math, Physics, Chemistry",35.19,IT,IT,Software Developer,Auditory
+STU0101,Student_101,"Biology, Chemistry, Home Science",41.43,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0102,Student_102,"Math, Physics, Chemistry",35.54,Business,Business,Entrepreneur,Hands-On
+STU0103,Student_103,"Biology, Chemistry, Home Science",33.45,Environmental Science,Environmental Science,Conservationist,Auditory
+STU0104,Student_104,"Math, Biology, Agriculture",43.64,Health,Health,Nurse,Visual
+STU0105,Student_105,"English, History, CRE",30.07,Social Sciences,Social Sciences,Sociologist,Hands-On
+STU0106,Student_106,"Math, Business, Geography",42.03,Engineering,Engineering,Engineer,Self-paced
+STU0107,Student_107,"Math, Business, Geography",38.86,Engineering,Engineering,Engineer,Visual
+STU0108,Student_108,"Math, Computer, English",43.36,IT,IT,Software Developer,Auditory
+STU0109,Student_109,"Math, Business, Geography",43.03,IT,IT,Software Developer,Self-paced
+STU0110,Student_110,"English, History, CRE",42.29,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0111,Student_111,"Math, Physics, Computer",29.78,Engineering,Engineering,Engineer,Auditory
+STU0112,Student_112,"Geography, Agriculture, Biology",39.57,Environmental Science,Environmental Science,Conservationist,Auditory
+STU0113,Student_113,"English, Kiswahili, Business",32.31,Social Sciences,Social Sciences,Sociologist,Hands-On
+STU0114,Student_114,"English, History, CRE",35.32,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0115,Student_115,"Math, Computer, English",34.5,IT,IT,Software Developer,Self-paced
+STU0116,Student_116,"Math, Biology, Agriculture",27.2,Environmental Science,Environmental Science,Conservationist,Hands-On
+STU0117,Student_117,"English, Kiswahili, Business",28.91,Business,Business,Entrepreneur,Hands-On
+STU0118,Student_118,"Math, Business, Geography",31.16,Business,Business,Entrepreneur,Self-paced
+STU0119,Student_119,"Math, Computer, English",26.42,IT,IT,Software Developer,Hands-On
+STU0120,Student_120,"English, History, CRE",26.99,Social Sciences,Social Sciences,Sociologist,Auditory
+STU0121,Student_121,"Biology, Chemistry, Home Science",43.3,Environmental Science,Environmental Science,Conservationist,Visual
+STU0122,Student_122,"Biology, Chemistry, Home Science",43.2,Health,Health,Nurse,Visual
+STU0123,Student_123,"Math, Biology, Agriculture",27.72,Engineering,Engineering,Engineer,Visual
+STU0124,Student_124,"Biology, Chemistry, Home Science",31.41,Environmental Science,Environmental Science,Conservationist,Hands-On
+STU0125,Student_125,"Biology, Chemistry, Home Science",38.12,Environmental Science,Environmental Science,Conservationist,Auditory
+STU0126,Student_126,"Math, Biology, Agriculture",41.56,IT,IT,Software Developer,Hands-On
+STU0127,Student_127,"Geography, Agriculture, Biology",39.52,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0128,Student_128,"English, History, CRE",39.15,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0129,Student_129,"English, Kiswahili, Business",29.32,Business,Business,Entrepreneur,Self-paced
+STU0130,Student_130,"Math, Business, Geography",36.64,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0131,Student_131,"Math, Physics, Chemistry",31.37,Business,Business,Entrepreneur,Visual
+STU0132,Student_132,"Math, Computer, English",27.36,Business,Business,Entrepreneur,Visual
+STU0133,Student_133,"Biology, Chemistry, Home Science",43.41,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0134,Student_134,"English, History, CRE",26.54,Social Sciences,Social Sciences,Sociologist,Visual
+STU0135,Student_135,"Math, Biology, Agriculture",26.69,IT,IT,Software Developer,Hands-On
+STU0136,Student_136,"Geography, Agriculture, Biology",37.52,Environmental Science,Environmental Science,Conservationist,Hands-On
+STU0137,Student_137,"Math, Business, Geography",31.96,Business,Business,Entrepreneur,Self-paced
+STU0138,Student_138,"English, History, CRE",26.33,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0139,Student_139,"Math, Biology, Agriculture",31.82,IT,IT,Software Developer,Self-paced
+STU0140,Student_140,"Math, Physics, Computer",41.15,Business,Business,Entrepreneur,Hands-On
+STU0141,Student_141,"Math, Physics, Chemistry",27.12,Business,Business,Entrepreneur,Auditory
+STU0142,Student_142,"English, Kiswahili, Business",31.32,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0143,Student_143,"Geography, Agriculture, Biology",41.02,Health,Health,Nurse,Hands-On
+STU0144,Student_144,"Math, Business, Geography",43.0,Environmental Science,Environmental Science,Conservationist,Visual
+STU0145,Student_145,"Geography, Agriculture, Biology",28.71,Environmental Science,Environmental Science,Conservationist,Hands-On
+STU0146,Student_146,"Math, Physics, Computer",27.48,Engineering,Engineering,Engineer,Hands-On
+STU0147,Student_147,"Geography, Agriculture, Biology",30.21,Health,Health,Nurse,Hands-On
+STU0148,Student_148,"Math, Business, Geography",34.96,Engineering,Engineering,Engineer,Visual
+STU0149,Student_149,"English, Kiswahili, Business",29.15,Business,Business,Entrepreneur,Visual
+STU0150,Student_150,"English, Kiswahili, Business",34.94,Business,Business,Entrepreneur,Visual
+STU0151,Student_151,"Geography, Agriculture, Biology",26.88,Health,Health,Nurse,Auditory
+STU0152,Student_152,"Math, Physics, Computer",43.08,Engineering,Engineering,Engineer,Visual
+STU0153,Student_153,"Biology, Chemistry, Home Science",31.66,Health,Health,Nurse,Hands-On
+STU0154,Student_154,"Math, Biology, Agriculture",37.88,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0155,Student_155,"English, History, CRE",44.46,Social Sciences,Social Sciences,Sociologist,Visual
+STU0156,Student_156,"Math, Biology, Agriculture",40.19,Business,Business,Entrepreneur,Hands-On
+STU0157,Student_157,"Math, Physics, Computer",42.15,Engineering,Engineering,Engineer,Auditory
+STU0158,Student_158,"English, Kiswahili, Business",41.42,Business,Business,Entrepreneur,Self-paced
+STU0159,Student_159,"English, Kiswahili, Business",29.95,Business,Business,Entrepreneur,Self-paced
+STU0160,Student_160,"Math, Computer, English",28.38,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0161,Student_161,"English, History, CRE",36.95,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0162,Student_162,"English, Kiswahili, Business",41.41,Business,Business,Entrepreneur,Auditory
+STU0163,Student_163,"Math, Physics, Chemistry",35.52,Business,Business,Entrepreneur,Auditory
+STU0164,Student_164,"Biology, Chemistry, Home Science",30.18,Health,Health,Nurse,Hands-On
+STU0165,Student_165,"Math, Computer, English",34.76,Engineering,Engineering,Engineer,Auditory
+STU0166,Student_166,"Math, Computer, English",42.47,Social Sciences,Social Sciences,Sociologist,Hands-On
+STU0167,Student_167,"English, History, CRE",26.94,Social Sciences,Social Sciences,Sociologist,Auditory
+STU0168,Student_168,"Math, Physics, Computer",35.32,Engineering,Engineering,Engineer,Auditory
+STU0169,Student_169,"English, History, CRE",34.9,Social Sciences,Social Sciences,Sociologist,Auditory
+STU0170,Student_170,"Math, Physics, Chemistry",40.46,Engineering,Engineering,Engineer,Visual
+STU0171,Student_171,"Math, Physics, Chemistry",40.43,Health,Health,Nurse,Auditory
+STU0172,Student_172,"Geography, Agriculture, Biology",36.48,Environmental Science,Environmental Science,Conservationist,Auditory
+STU0173,Student_173,"Math, Business, Geography",31.88,Environmental Science,Environmental Science,Conservationist,Auditory
+STU0174,Student_174,"English, History, CRE",41.61,Social Sciences,Social Sciences,Sociologist,Auditory
+STU0175,Student_175,"Math, Physics, Chemistry",28.83,IT,IT,Software Developer,Hands-On
+STU0176,Student_176,"Math, Physics, Computer",41.08,Engineering,Engineering,Engineer,Hands-On
+STU0177,Student_177,"Math, Physics, Chemistry",37.92,Engineering,Engineering,Engineer,Hands-On
+STU0178,Student_178,"Math, Computer, English",41.26,IT,IT,Software Developer,Self-paced
+STU0179,Student_179,"English, History, CRE",29.63,Social Sciences,Social Sciences,Sociologist,Visual
+STU0180,Student_180,"Math, Physics, Chemistry",31.6,Health,Health,Nurse,Hands-On
+STU0181,Student_181,"Math, Computer, English",33.42,Business,Business,Entrepreneur,Self-paced
+STU0182,Student_182,"Math, Computer, English",34.41,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0183,Student_183,"Math, Computer, English",39.47,Engineering,Engineering,Engineer,Auditory
+STU0184,Student_184,"English, History, CRE",30.13,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0185,Student_185,"Math, Physics, Chemistry",37.5,IT,IT,Software Developer,Auditory
+STU0186,Student_186,"Geography, Agriculture, Biology",39.91,Health,Health,Nurse,Visual
+STU0187,Student_187,"English, History, CRE",31.22,Social Sciences,Social Sciences,Sociologist,Auditory
+STU0188,Student_188,"Math, Computer, English",35.84,Social Sciences,Social Sciences,Sociologist,Auditory
+STU0189,Student_189,"English, History, CRE",44.41,Social Sciences,Social Sciences,Sociologist,Self-paced
+STU0190,Student_190,"Geography, Agriculture, Biology",29.59,Health,Health,Nurse,Auditory
+STU0191,Student_191,"English, History, CRE",29.5,Social Sciences,Social Sciences,Sociologist,Auditory
+STU0192,Student_192,"Geography, Agriculture, Biology",39.62,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0193,Student_193,"Math, Physics, Chemistry",35.37,Engineering,Engineering,Engineer,Hands-On
+STU0194,Student_194,"Math, Business, Geography",32.85,Business,Business,Entrepreneur,Hands-On
+STU0195,Student_195,"Math, Biology, Agriculture",41.72,Environmental Science,Environmental Science,Conservationist,Auditory
+STU0196,Student_196,"Geography, Agriculture, Biology",33.15,Environmental Science,Environmental Science,Conservationist,Hands-On
+STU0197,Student_197,"Biology, Chemistry, Home Science",39.08,Environmental Science,Environmental Science,Conservationist,Self-paced
+STU0198,Student_198,"Math, Physics, Computer",42.91,Engineering,Engineering,Engineer,Visual
+STU0199,Student_199,"Biology, Chemistry, Home Science",40.89,Health,Health,Nurse,Self-paced
+STU0200,Student_200,"Geography, Agriculture, Biology",27.73,Environmental Science,Environmental Science,Conservationist,Self-paced
